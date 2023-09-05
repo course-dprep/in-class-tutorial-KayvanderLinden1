@@ -14,3 +14,5 @@ unlink(paste(getwd(),'/gen/paper/temp/*',sep=''),recursive=T,force=T)
 # Delete temporary (hidden) R files
 file.remove('.RData')
 file.remove('.Rhistory')
+
+#Add some comments
